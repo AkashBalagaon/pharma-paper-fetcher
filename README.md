@@ -1,10 +1,14 @@
-# PubMed Fetcher
+# PubMed Fetcher CLI
 
-Fetch research papers from PubMed with at least one author affiliated to pharmaceutical or biotech companies.
+Fetch and filter PubMed research papers with at least one author affiliated with biotech or pharma companies.
 
-## 📦 Installation
+##  Features
+- Fetch papers using PubMed API
+- Filter non-academic authors
+- Export to CSV
+- Command-line interface
+- Unit tests with mocked API calls
 
+##  Installation
 ```bash
-git clone https://github.com/AkashBalagaon/pharma-paper-fetcher
-cd pubmed-fetcher
-poetry install
+pip install -r requirements.txt
