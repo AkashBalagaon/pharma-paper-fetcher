@@ -1,0 +1,6 @@
+requests
+pandas
+tqdm
+typer[all]
+rich
+biopython
