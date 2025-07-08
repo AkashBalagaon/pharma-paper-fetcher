@@ -5,6 +5,6 @@ Fetch research papers from PubMed with at least one author affiliated to pharmac
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/yourusername/pubmed-fetcher.git
+git clone https://github.com/AkashBalagaon/pharma-paper-fetcher
 cd pubmed-fetcher
 poetry install
